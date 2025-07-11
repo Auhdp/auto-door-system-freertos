@@ -26,8 +26,8 @@ This project is an **automated door system** built with **Arduino Uno R3** and *
 - Buzzer
 - LEDs
 ## 📸 Images
-<img width="816" height="708" alt="image" src="https://github.com/user-attachments/assets/2f6b192f-988a-461f-a498-c91852d58a81" />
-<img width="822" height="616" alt="image" src="https://github.com/user-attachments/assets/a3ad54ac-3300-4d3d-96c1-e4659d4a9569" />
+<img width="450" height="380" alt="image" src="https://github.com/user-attachments/assets/2f6b192f-988a-461f-a498-c91852d58a81" />
+<img width="450" height="380" alt="image" src="https://github.com/user-attachments/assets/a3ad54ac-3300-4d3d-96c1-e4659d4a9569" />
 
 ## 📝 Tác giả
 - **Họ tên:** Huỳnh Đặng Phương Âu  
