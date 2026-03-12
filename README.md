@@ -9,7 +9,7 @@ This project is an **automated door system** built with **Arduino Uno R3** and *
 - Light and buzzer feedback
 - Multi-tasking using FreeRTOS
 
-## 🧠 System Overview
+## System Overview
 - **Sensor 1 (HC-SR04):** Detects approaching person
 - **Sensor 2 (HC-SR04):** Detects person leaving
 - **vTaskSensor1 & vTaskSensor2:** Handle detection and responses
